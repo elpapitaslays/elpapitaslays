@@ -5,6 +5,7 @@
 </div>
 <div align="center">
   <h3>Programming Languages</h3>
+  <img src="https://svgl-badge.vercel.app/api/Framework/Angular?theme=dark">
   <img src="https://svgl-badge.vercel.app/api/Library/React?theme=dark">
   <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
