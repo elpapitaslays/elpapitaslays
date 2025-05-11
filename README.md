@@ -1,7 +1,7 @@
 <h1 align="center">pepas</h1>
 <div align="center">
   <h5>Aspirant.</h5>
-  <h6>Taking curiosity to the limit, exploring all possibilities.</h6>
+  <h6>Exploring all possibilities.</h6>
 </div>
 <div align="center">
   <h3>Programming Languages</h3>
